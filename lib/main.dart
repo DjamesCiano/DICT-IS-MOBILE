@@ -17,6 +17,7 @@ class MainApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: SplashScreen(), // Call SplashScreen from mainb.dart
+      //hello
     );
   }
 }
