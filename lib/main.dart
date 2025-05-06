@@ -19,5 +19,6 @@ class MainApp extends StatelessWidget {
       home: SplashScreen(), // Call SplashScreen from mainb.dart
       //hello
     );
+    ///////////
   }
 }
